@@ -1,0 +1,124 @@
+body{
+    background-color: #16151d;
+    color: rebeccapurple;
+    
+}
+section{
+    
+    color: white;
+    
+}
+div{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+p{
+    color: white;
+}
+
+.set1{
+    
+}
+.set1_1{
+}
+.solo{
+    background-image: url("../images/solomaxlevelnewbie.webp");
+    background-size: cover;
+}
+
+
+
+
+.image1{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    left: 170px;
+}
+
+.search{
+    float: right;
+    width: 350px;
+    height: 38px;
+    background-color: #17151B;
+    border: 1px solid black;
+    color: white;
+    padding: 6px 30px 6px 12px;
+    border-radius: 5px;
+}
+
+.nav{
+    background-color: #913Fe2;
+    word-spacing: 100px;
+    
+    height: 32px;
+    font-size: 14px;
+    padding: 1px 0 10px 150px;
+    vertical-align: middle;
+    
+}
+li{
+    display: inline;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.imageft{
+    width: 144px;
+    height: 181px;
+}
+
+
+.foot1_1{
+    background-color: #913Fe2;
+    padding-left: 400px;
+    padding-top: .5px;
+    padding-bottom: .5px;
+}
+
+.foot1{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.foot2_2{
+    padding-left: 550px;
+}
+
+.foot2{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.footimage{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 690px;
+    padding-bottom: 20px;
+}
+
+img{
+    width: 120px;
+    height: 150px;
+}
+
+.popular{
+   margin-left: 10%;
+   margin-right: 10%;
+   padding-top: 0.3px;
+   font-size: 12px;
+   
+}
+p{
+    font-size: 14px;
+}
+
+.next{
+    margin-left: 97%;
+    margin-bottom: 20px;
+}
+
